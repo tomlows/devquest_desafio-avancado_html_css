@@ -1,0 +1,27 @@
+@media(max-width:375px) {
+    body {
+        max-width: 100%;
+    }
+
+    .container {
+        display: block;
+        height: 1817px;
+        width: 100%;
+        margin-top: 53px;
+        justify-content: center;
+        align-content: center;
+        margin-right: 20px;   
+    }
+
+    .item img{
+        width: 100%;
+        height: 432px;       
+    }
+    .item h1{
+        bottom: 55px;
+    }
+    
+    .item h3{  
+        bottom:30px;
+    }
+}
